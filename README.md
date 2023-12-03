@@ -1,15 +1,15 @@
-### [accountill.com](https://accountill.com/)
+### [invoice-via-mail.com](https://invoice-via-mail.com/)
 # MERN Stack Invoicing Application
 Built with the MERN stack (MongoDB, Express, React and NodeJS).
 ![Invoice](https://res.cloudinary.com/almpo/image/upload/v1637311386/invoice/invoice-app_tcz0dj.png)
 
 
 ## Update
-I am pleased to inform you that the name of this repository has been changed from Arc Invoice to Accountill.
+I am pleased to inform you that the name of this repository has been changed from Arc Invoice to invoice-via-mail.
 There are so many things coming! Stay tuned!!
 
 
-Panshak
+Leonid
 ----
 
   * [Introduction](#introduction)
@@ -24,7 +24,7 @@ Panshak
   * [License](#license)
 
 ## Introduction
-This is a side project I've been working on. A full stack invoicing application made using the MERN stack (MongoDB, Express, React & Nodejs), specially designed for freelancers and small businesses, but can be used for almost any type of business need. With this application, you can send beautiful invoices, receipts, estimates, quotes, bills etc to your clients. Jump right off the [Live App](https://accountill.com/) and start sending invoice or download the entire [Source code](https://github.com/Panshak/accountill) and run it on your server. This project is something I've been working on in my free time so I cannot be sure that everything will work out correctly. But I'll appreciate you if can report any issue.
+This is a side project I've been working on. A full stack invoicing application made using the MERN stack (MongoDB, Express, React & Nodejs), specially designed for freelancers and small businesses, but can be used for almost any type of business need. With this application, you can send beautiful invoices, receipts, estimates, quotes, bills etc to your clients. Jump right off the [Live App](https://invoice-via-mail.com/) and start sending invoice or download the entire [Source code](https://github.com/gailldarkhorse/invoice-via-mail) and run it on your server. This project is something I've been working on in my free time so I cannot be sure that everything will work out correctly. But I'll appreciate you if can report any issue.
 
 ![Invoice Dashboard](https://res.cloudinary.com/almpo/image/upload/v1637314504/invoice/dashboard_c5z0is.png)
 
@@ -168,13 +168,7 @@ I intend to keep adding more features to this application, so if you like it, pl
 to keep improving the project.
 
 
-## Author
-
-- Twitter: [@panshak_](https://twitter.com/panshak_)
-- Github: [@panshak](https://github.com/panshak)
-- Linkedin: [@panshak](https://www.linkedin.com/in/panshak/)
-- Email: [@ipanshak](mailto:ipanshak@gmail.com)
 
 ## License
 
-- This project is [MIT](https://github.com/Panshak/accountill/blob/master/LICENSE.md) licensed.
+- This project is [MIT](https://github.com/gailldarkhorse/invoice-via-mail/blob/master/LICENSE.md) licensed.
